@@ -1,1 +1,1 @@
-This folder contains SolidWorks part files (.SLDPRT) beginning from the smallest element of the design which is a one/third part of a finger,designed to make the finger work just like a human hand to the biggest element which is the forearm.
+This folder contains SolidWorks part files (.SLDPRT) beginning from the smallest element of the design which is a one/third part of a finger,designed to make the finger work just like a human hand to the biggest element which is the forearm. To view the file a person would have to download the file and open it using Solidworks.
