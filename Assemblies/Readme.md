@@ -1,0 +1,1 @@
+This folder contains the assmembly files of the said design which included assemblies starting from a singular finger to the whole hand. To view the file a person would have to download the file and open it using Solidworks.
